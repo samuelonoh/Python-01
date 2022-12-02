@@ -9,5 +9,6 @@ def main():
 def square(n):
     return n * n
 
+# Pow : power of
 
 main()
